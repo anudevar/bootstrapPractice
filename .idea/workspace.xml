@@ -7,7 +7,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lWl4sE9pQiuYTo6gc9NXLQtIig" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +39,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607720539419</updated>
       <workItem from="1607720540512" duration="14814000" />
+      <workItem from="1607783911966" duration="350000" />
     </task>
     <servers />
   </component>
